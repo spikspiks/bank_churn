@@ -34,7 +34,4 @@ def model_prediction(X):
     if y[0][0] > 0.5:
         return True
     else: 
-        return False
-
-
-     
+        return False     
